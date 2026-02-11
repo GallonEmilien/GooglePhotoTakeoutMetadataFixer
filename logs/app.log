@@ -1,0 +1,133 @@
+2026-02-11 04:58:02.838 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\Photos de 2020 to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie
+2026-02-11 04:58:02.840 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 04:58:02.850 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - JSON cache built with 7 entries.
+2026-02-11 04:58:02.850 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 04:58:02.857 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Found 7 media files (Total size: 23 MB).
+2026-02-11 04:58:02.882 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 04:58:57.824 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\Photos de 2020 to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie
+2026-02-11 04:58:57.824 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 04:58:57.824 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - JSON cache built with 7 entries.
+2026-02-11 04:58:57.826 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 04:58:57.826 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Found 7 media files (Total size: 23 MB).
+2026-02-11 04:58:57.841 [DefaultDispatcher-worker-11] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 04:59:32.374 [DefaultDispatcher-worker-11] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\Photos de 2020\testprofondeur to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie
+2026-02-11 04:59:32.376 [DefaultDispatcher-worker-11] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 04:59:32.376 [DefaultDispatcher-worker-11] INFO  f.g.g.TakeoutProcessor - JSON cache built with 7 entries.
+2026-02-11 04:59:32.376 [DefaultDispatcher-worker-11] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 04:59:32.377 [DefaultDispatcher-worker-11] INFO  f.g.g.TakeoutProcessor - Found 7 media files (Total size: 23 MB).
+2026-02-11 04:59:32.386 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 04:59:34.457 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\Photos de 2020\testprofondeur to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie
+2026-02-11 04:59:34.457 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 04:59:34.457 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - JSON cache built with 7 entries.
+2026-02-11 04:59:34.457 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 04:59:34.459 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Found 7 media files (Total size: 23 MB).
+2026-02-11 04:59:34.474 [DefaultDispatcher-worker-7] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:01:23.810 [DefaultDispatcher-worker-1 @coroutine#1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\Photos de 2020 to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie
+2026-02-11 05:01:23.811 [DefaultDispatcher-worker-1 @coroutine#1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:01:23.820 [DefaultDispatcher-worker-1 @coroutine#1] INFO  f.g.g.TakeoutProcessor - JSON cache built with 7 entries.
+2026-02-11 05:01:23.820 [DefaultDispatcher-worker-1 @coroutine#1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:01:23.830 [DefaultDispatcher-worker-1 @coroutine#1] INFO  f.g.g.TakeoutProcessor - Found 7 media files (Total size: 23 MB).
+2026-02-11 05:01:23.858 [DefaultDispatcher-worker-11 @coroutine#1] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:02:06.447 [DefaultDispatcher-worker-11 @coroutine#9] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\Photos de 2020 to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie
+2026-02-11 05:02:06.447 [DefaultDispatcher-worker-11 @coroutine#9] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:02:06.449 [DefaultDispatcher-worker-11 @coroutine#9] INFO  f.g.g.TakeoutProcessor - JSON cache built with 7 entries.
+2026-02-11 05:02:06.449 [DefaultDispatcher-worker-11 @coroutine#9] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:02:06.449 [DefaultDispatcher-worker-11 @coroutine#9] INFO  f.g.g.TakeoutProcessor - Found 7 media files (Total size: 23 MB).
+2026-02-11 05:03:25.990 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\Photos de 2020 to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie
+2026-02-11 05:03:25.992 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:03:25.999 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - JSON cache built with 7 entries.
+2026-02-11 05:03:26.001 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:03:26.007 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Found 7 media files (Total size: 23 MB).
+2026-02-11 05:03:26.126 [DefaultDispatcher-worker-2] ERROR f.g.g.VideoMetadataService - Video Metadata Error C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie\Snapchat-24767278.mp4
+java.nio.file.FileSystemException: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie\Snapchat-24767278.mp4: Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileCopy.move(WindowsFileCopy.java:403)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.move(WindowsFileSystemProvider.java:291)
+	at java.base/java.nio.file.Files.move(Files.java:1431)
+	at fr.gallonemilien.googlephotometadatafixer.VideoMetadataService.writeToTempFile(VideoMetadataService.kt:133)
+	at fr.gallonemilien.googlephotometadatafixer.VideoMetadataService.writeVideoMetadata(VideoMetadataService.kt:55)
+	at fr.gallonemilien.googlephotometadatafixer.MetadataManager.applyMetadata(MetadataManager.kt:43)
+	at fr.gallonemilien.googlephotometadatafixer.TakeoutProcessor.processSingleFile(TakeoutProcessor.kt:94)
+	at fr.gallonemilien.googlephotometadatafixer.TakeoutProcessor.access$processSingleFile(TakeoutProcessor.kt:22)
+	at fr.gallonemilien.googlephotometadatafixer.TakeoutProcessor$process$2$6$1$1.invokeSuspend(TakeoutProcessor.kt:64)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:101)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:707)
+2026-02-11 05:03:26.136 [DefaultDispatcher-worker-3] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:03:52.467 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\Photos de 2020 to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie
+2026-02-11 05:03:52.469 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:03:52.480 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - JSON cache built with 7 entries.
+2026-02-11 05:03:52.480 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:03:52.486 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Found 7 media files (Total size: 23 MB).
+2026-02-11 05:03:52.599 [DefaultDispatcher-worker-9] ERROR f.g.g.VideoMetadataService - Video Metadata Error C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie\Snapchat-24767278.mp4
+java.nio.file.FileSystemException: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie\Snapchat-24767278.mp4: Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileCopy.move(WindowsFileCopy.java:403)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.move(WindowsFileSystemProvider.java:291)
+	at java.base/java.nio.file.Files.move(Files.java:1431)
+	at fr.gallonemilien.googlephotometadatafixer.VideoMetadataService.writeToTempFile(VideoMetadataService.kt:133)
+	at fr.gallonemilien.googlephotometadatafixer.VideoMetadataService.writeVideoMetadata(VideoMetadataService.kt:55)
+	at fr.gallonemilien.googlephotometadatafixer.MetadataManager.applyMetadata(MetadataManager.kt:43)
+	at fr.gallonemilien.googlephotometadatafixer.TakeoutProcessor.processSingleFile(TakeoutProcessor.kt:94)
+	at fr.gallonemilien.googlephotometadatafixer.TakeoutProcessor.access$processSingleFile(TakeoutProcessor.kt:22)
+	at fr.gallonemilien.googlephotometadatafixer.TakeoutProcessor$process$2$6$1$1.invokeSuspend(TakeoutProcessor.kt:64)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(ContinuationImpl.kt:33)
+	at kotlinx.coroutines.DispatchedTask.run(DispatchedTask.kt:101)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(LimitedDispatcher.kt:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(Tasks.kt:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(CoroutineScheduler.kt:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(CoroutineScheduler.kt:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(CoroutineScheduler.kt:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(CoroutineScheduler.kt:707)
+2026-02-11 05:03:52.617 [DefaultDispatcher-worker-3] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:05:02.938 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\Photos de 2020 to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\TESTS\sortie
+2026-02-11 05:05:02.940 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:05:02.946 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - JSON cache built with 7 entries.
+2026-02-11 05:05:02.946 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:05:02.952 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Found 7 media files (Total size: 23 MB).
+2026-02-11 05:05:03.089 [DefaultDispatcher-worker-3] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:07:05.889 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\Google Photos to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\sortie
+2026-02-11 05:07:05.892 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:07:05.960 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - JSON cache built with 8599 entries.
+2026-02-11 05:07:05.960 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:07:06.791 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Found 8944 media files (Total size: 94512 MB).
+2026-02-11 05:08:19.043 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:11:12.781 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\Photos de 2020 to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\sortie-test
+2026-02-11 05:11:12.784 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:11:12.792 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - JSON cache built with 6 entries.
+2026-02-11 05:11:12.793 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:11:12.801 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Found 6 media files (Total size: 22 MB).
+2026-02-11 05:11:12.837 [DefaultDispatcher-worker-6] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:11:12.910 [DefaultDispatcher-worker-6] INFO  f.g.g.MainViewModel - Opened output directory: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\sortie-test
+2026-02-11 05:14:36.201 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\Photos de 2020 to output: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\sortie-test
+2026-02-11 05:14:36.201 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:14:36.211 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - JSON cache built with 6 entries.
+2026-02-11 05:14:36.213 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:14:36.219 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Found 6 media files (Total size: 22 MB).
+2026-02-11 05:14:36.257 [DefaultDispatcher-worker-3] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:14:36.307 [DefaultDispatcher-worker-3] INFO  f.g.g.MainViewModel - Opened output directory: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\sortie-test
+2026-02-11 05:17:22.430 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout
+2026-02-11 05:17:22.432 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:17:22.513 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - JSON cache built.
+2026-02-11 05:17:22.513 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:17:23.343 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Found 8944 media files. Starting parallel processing...
+2026-02-11 05:17:23.346 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Parallelism level set to: 48 threads
+2026-02-11 05:18:44.710 [DefaultDispatcher-worker-18] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:18:44.773 [DefaultDispatcher-worker-18] INFO  f.g.g.MainViewModel - Opened output directory: C:\Users\bouck\Pictures\Exports\googleoutput
+2026-02-11 05:21:28.212 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Starting processing from input: C:\Users\bouck\Pictures\Exports\photo bouckiwi\Takeout\Google Photos\Photos de 2020
+2026-02-11 05:21:28.214 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Building JSON cache...
+2026-02-11 05:21:28.223 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - JSON cache built.
+2026-02-11 05:21:28.224 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Scanning for media files...
+2026-02-11 05:21:28.229 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Found 6 media files. Starting parallel processing...
+2026-02-11 05:21:28.232 [DefaultDispatcher-worker-1] INFO  f.g.g.TakeoutProcessor - Parallelism level set to: 48 threads
+2026-02-11 05:21:28.268 [DefaultDispatcher-worker-8] INFO  f.g.g.TakeoutProcessor - Processing completed successfully.
+2026-02-11 05:21:28.325 [DefaultDispatcher-worker-8] INFO  f.g.g.MainViewModel - Opened output directory: C:\Users\bouck\Pictures\Exports\googleoutput
